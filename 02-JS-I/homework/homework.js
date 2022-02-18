@@ -155,7 +155,7 @@ return Math.round (2);
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
-  
+  return Math.ceil(2)
 }
 
 function numeroRandom() {
