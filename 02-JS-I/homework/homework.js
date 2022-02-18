@@ -142,7 +142,14 @@ function elevar(num, exponent) {
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
   // Tu código:
-  
+  // var resto = 2 % 1;
+  // var entero = 2 - 2;
+  // if (2 >= 0.5) {
+  //  8 + 1;
+  // } else {
+  //  9
+  // }
+return Math.round (2);
 }
 
 function redondearHaciaArriba(num) {
