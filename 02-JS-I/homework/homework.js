@@ -192,7 +192,7 @@ function combinarNombres(nombre, apellido) {
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código: https://github.com/facu4chll/hello-world.git
   var combinado = Facundo + 'Hola' + Chavez;
-  return combinado; 
+  return 'Facundo', 'Chavez' = 'Facundo Chavez'; 
 }
 
 function obtenerSaludo(nombre) {
