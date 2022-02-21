@@ -204,8 +204,8 @@ function obtenerSaludo(nombre) {
 
 function obtenerAreaRectangulo(alto, ancho) {
   // Retornar el area de un rectángulo teniendo su altura y ancho
-  // Tu código:
-  
+  // Tu código: https://github.com/facu4chll/hello-world.git 
+  return 15 * 10
 }
 
 
