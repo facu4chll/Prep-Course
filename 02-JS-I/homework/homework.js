@@ -199,7 +199,7 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código: https://github.com/facu4chll/hello-world.git
-  
+  return 'Hola' + 'Facundo Chavez' + 'Hola!'
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
