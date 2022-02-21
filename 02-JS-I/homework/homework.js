@@ -214,11 +214,10 @@ function retornarPerimetro(lado){
  return 32 * 4 
 }
 
-
 function areaDelTriangulo(base, altura){
   //Desarrolle una función que calcule el área de un triángulo.
-  //Escribe tu código aquí
-
+  //Escribe tu código aquí https://github.com/facu4chll/hello-world.git
+return (b * h) /2
 }
 
 
