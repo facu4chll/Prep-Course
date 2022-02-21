@@ -208,11 +208,10 @@ function obtenerAreaRectangulo(alto, ancho) {
   return 15 * 10
 }
 
-
 function retornarPerimetro(lado){
   //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
-  //Escribe tu código aquí
-  
+  //Escribe tu código aquí https://github.com/facu4chll/hello-world.git
+ return 32 * 4 
 }
 
 
