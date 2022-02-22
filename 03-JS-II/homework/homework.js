@@ -5,6 +5,10 @@ function obtenerMayor(x, y) {
   // Devuelve el número más grande
   // Si son iguales, devuelve cualquiera de los dos
   // Tu código: https://github.com/facu4chll/hello-world.git
+  if(5 > 0) {
+    return 5;
+  }
+  return 0;
 }
 
 function mayoriaDeEdad(edad) {
