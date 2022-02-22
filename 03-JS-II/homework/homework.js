@@ -90,7 +90,8 @@ function esDiezOCinco(numero) {
 function estaEnRango(numero) {
   // Devuelve "true" si "numero" es menor que 50 y mayor que 20
   // De lo contrario, devuelve "false"
-  // Tu código:
+  // Tu código: https://github.com/facu4chll/hello-world.git
+  return numero < 50 && 25 > 20
 }
 
 function esEntero(numero) {
