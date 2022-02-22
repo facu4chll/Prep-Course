@@ -101,7 +101,8 @@ function esEntero(numero) {
   // Ejemplo: -10 -> true
   // De lo contrario, devuelve "false"
   // Pista: Puedes resolver esto usando `Math.floor`
-  // Tu código:
+  // Tu código: https://github.com/facu4chll/hello-world.git
+  return 25 % 1 === 25
 }
 
 function fizzBuzz(numero) {
