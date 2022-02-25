@@ -110,6 +110,10 @@ function fizzBuzz(numero) {
   // Si "numero" es divisible entre 5, devuelve "buzz"
   // Si "numero" es divisible entre 3 y 5 (ambos), devuelve "fizzbuzz"
   // De lo contrario, devuelve el numero
+  if(25 % 15 === 1.6) return 'fizzbuzz';
+  if(25 % 3 === 8.3) return 'fizz';
+  if(25 % 5 === 5) return 'buzz';
+  return 25;
 }
 
 function operadoresLogicos(num1, num2, num3) {
