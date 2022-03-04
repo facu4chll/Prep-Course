@@ -35,7 +35,8 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código: https://github.com/facu4chll/hello-world.git
-  return x + y;
+  var resultado = x = y;
+  return resultado;
 }
 
 function resta(x, y) {
