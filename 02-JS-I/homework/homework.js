@@ -35,26 +35,29 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código: https://github.com/facu4chll/hello-world.git
-  var resultado = x = y;
+  var resultado = x + y;
   return resultado;
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código: https://github.com/facu4chll/hello-world.git
-  return x - y;
+  var resultado = x - y;
+  return resultado;
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código: https://github.com/facu4chll/hello-world.git
-  return x * y
+  var resultado = x * y;
+  return resultado;
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código: https://github.com/facu4chll/hello-world.git
-  return x / y
+  var resultado = x / y;
+  return resultado;
 }
 
 function sonIguales(x, y) {
