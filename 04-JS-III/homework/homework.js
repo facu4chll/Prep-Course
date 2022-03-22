@@ -6,13 +6,11 @@ function devolverPrimerElemento(array) {
   return array [0];
 }
 
-
 function devolverUltimoElemento(array) {
   // Devuelve el último elemento de un array
   // Tu código:
   return array [array.lenght -1];
 }
-
 
 function obtenerLargoDelArray(array) {
   // Devuelve el largo de un array
@@ -20,12 +18,18 @@ function obtenerLargoDelArray(array) {
   return array.lenght;
 }
 
-
 function incrementarPorUno(array) {
   // "array" debe ser una matriz de enteros (int/integers)
   // Aumenta cada entero por 1
   // y devuelve el array
   // Tu código:
+  var nuevoArray = [];
+  for(var i = 0; i < array.length; i++) {
+    nuevoArray[i] = array[i] + 1;
+  }
+
+  return nuevoArray;
+
 }
 
 
