@@ -13,7 +13,7 @@ function mayuscula(nombre) {
 function invocarCallback(cb) {
   // Invoca al callback `cb`
   //Tu código:
-  cb();
+  cb(); 
 }
 
 function operacionMatematica(n1, n2, cb) {
