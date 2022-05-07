@@ -2,3 +2,41 @@
     padding: 0;
     margin: 0;
 }
+h1 {
+    text-align: center;
+    background-color: black;
+    color: grey;
+    padding: 20px;
+}
+nav ul {
+    background-color: lightblue ;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+nav li {
+    display: inline-flex;
+}
+#principal {
+    border: solid 1px black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+}
+fieldset {
+    border: solid 1px black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+}
+legend {
+    border: solid 3px blue;
+    padding: 3px;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: lightblue;
+}
+#mifoto {
+    margin: 5px;
+    border: solid 4px black;
+}
