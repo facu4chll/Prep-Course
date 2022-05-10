@@ -34,28 +34,28 @@ function devolverString(str) {
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   var resultado = x + y;
   return resultado;
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   var resultado = x - y;
   return resultado;
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   var resultado = x * y;
   return resultado;
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   var resultado = x / y;
   return resultado;
 }
@@ -63,7 +63,7 @@ function divide(x, y) {
 function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código:
   if (x === y) {
     return true;
   } else {
@@ -74,14 +74,14 @@ function sonIguales(x, y) {
 function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   return str1.length === str2.length;
 }
 
 function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
   // De lo contrario, devuelve "false"
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   if(num > 90) {
     return true;
   } else {
@@ -98,14 +98,14 @@ function mayorQueCincuenta(num) {
 
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   return x % y;
 }
 
 function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   if( num % 2 === 0) {
     return true;
   } else {
@@ -116,7 +116,7 @@ function esPar(num) {
 function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
  if(num % 2 === 1) {
    return true;
  } else {
@@ -127,25 +127,25 @@ function esImpar(num) {
 function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   return Math.pow(num, 2)
 }
 
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   return 2 * 2 * 2;
 }
 
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   return Math.pow(2, 3);
 }
 
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   // var resto = 2 % 1;
   // var entero = 2 - 2;
   // if (2 >= 0.5) {
@@ -158,7 +158,7 @@ return Math.round (2);
 
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   return Math.ceil(2)
 }
 
@@ -187,14 +187,14 @@ function esPositivo(numero) {
 function agregarSimboloExclamacion(str) {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
   // Ejemplo: "hello world" pasaría a ser "hello world!"
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   return str + 'Hola!'
 }
 
 function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   var combinado = Facundo + ' ' + Chavez;
   return 'Facundo', 'Chavez' = 'Facundo Chavez'; 
 }
@@ -202,32 +202,32 @@ function combinarNombres(nombre, apellido) {
 function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
-  // Tu código: https://github.com/facu4chll/hello-world.git
+  // Tu código: 
   return 'Hola' + 'Facundo Chavez' + 'Hola!'
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
   // Retornar el area de un rectángulo teniendo su altura y ancho
-  // Tu código: https://github.com/facu4chll/hello-world.git 
+  // Tu código: 
   return 15 * 10
 }
 
 function retornarPerimetro(lado){
   //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
-  //Escribe tu código aquí https://github.com/facu4chll/hello-world.git
+  //Escribe tu código aquí 
  return 32 * 4 
 }
 
 function areaDelTriangulo(base, altura){
   //Desarrolle una función que calcule el área de un triángulo.
-  //Escribe tu código aquí https://github.com/facu4chll/hello-world.git
+  //Escribe tu código aquí 
 return (b * h) /2
 }
 
 function deEuroAdolar(euro){
   //Supongamos que 1 euro equivale a 1.20 dólares. Escribe un programa que reciba
   //como parámetro un número de euros y calcule el cambio en dólares.
-  //Escribe tu código aquí https://github.com/facu4chll/hello-world.git
+  //Escribe tu código aquí 
   return euro * 1.2
 }
 
@@ -236,7 +236,7 @@ function esVocal(letra){
   //Verificar si el usuario ingresó un string de más de un carácter, en ese caso, informarle 
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
   // Si no es vocal, tambien debe devolver "Dato incorrecto".
-  //Escribe tu código aquí https://github.com/facu4chll/hello-world.git
+  //Escribe tu código aquí 
   if(letra.length > 1){
     return "Dato incorrecto"
   }
